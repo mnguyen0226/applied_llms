@@ -6,4 +6,8 @@ Automation tasks:
   - Text summarization.
   - Feature extraction. A dashboard to summary and extract features. If interested, that person can click-on and get a better review of what the customer is thinking.
   - Inference of positive/negative analysis.
-    - Feature extraction and alert based on the topics
+    - Feature extraction and alert based on the topics.
+  - Translation
+    - Tone translator for different business needs.
+    - Spelling check, proof-read and correct.
+  - Expand a shorter text to a longer text.

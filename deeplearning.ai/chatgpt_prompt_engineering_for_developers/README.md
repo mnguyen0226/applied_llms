@@ -20,8 +20,11 @@ Two Types of LLMs:
 - Traditional ML, get the label, and get inference which take analysis. For LLM, you can have a prompt and get results. You can use 1 API for multiple task
 
 ## Transforming
+- Language translator.
+- Tone translator for different business need.
 
 ## Expanding
+- Expanding a shorter text to a longer text.
 
 ## Chatbot
 
