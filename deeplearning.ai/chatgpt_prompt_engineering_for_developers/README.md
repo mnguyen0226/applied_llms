@@ -14,6 +14,7 @@ Two Types of LLMs:
 - Require multiple times to get the optimized prompt.
 
 ## Summarization of Text
+- Summarization and extraction
 
 ## Inferring
 
