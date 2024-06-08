@@ -7,10 +7,13 @@ Two Types of LLMs:
 - Instruction Tuned LLMs: Further fine-tuned with Reinforcement Leanring with Human Feedback.
 
 ## Guilelines for Prompting
+- Write clear and specific instructions.
+- Give the model time to think.
 
-## Iterative
+## Iterative Prompt Development
+- Require multiple times to get the optimized prompt.
 
-## Summarizing
+## Summarization of Text
 
 ## Inferring
 
