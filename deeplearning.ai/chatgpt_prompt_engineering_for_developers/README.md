@@ -27,4 +27,5 @@ Two Types of LLMs:
 - Expanding a shorter text to a longer text.
 
 ## Chatbot
-
+- Create a customed chatbot like an AI customer services or agent.
+  - We can automate the collection of user prompts and assistant responses to build a OrderBot. The OrderBot will take orders at the pizza restaurant.

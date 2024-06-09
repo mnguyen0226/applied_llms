@@ -12,3 +12,5 @@ ChatGPT Prompt Engineering for Developers.
   - Spelling check, proof-read and correct.
 - Expand a shorter text to a longer text.
   - Customize the automated replay to a customer email by telling who the person the agent is.
+- Chatbots:
+  - Extended conversations with personalized or specialized chatbots.
