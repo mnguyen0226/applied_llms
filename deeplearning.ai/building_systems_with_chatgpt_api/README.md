@@ -8,8 +8,14 @@
 
 
 ## Classification
+- Evaluate inputs to ensure safety of the model reponses.
 
 ## Moderation
+- Important to check if the user is using the system correctly but not abusing it. We can use the moderation API and detect prompt injection!
+
+[Moderation API](https://platform.openai.com/docs/guides/moderation)
+
+- Avoid Prompt Injections: If you build a bot for a product, the user might ask you to help with homeworks or fake news articles.
 
 ## Chain of Thought Reasoning
 
