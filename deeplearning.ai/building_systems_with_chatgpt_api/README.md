@@ -18,6 +18,7 @@
 - Avoid Prompt Injections: If you build a bot for a product, the user might ask you to help with homeworks or fake news articles.
 
 ## Chain of Thought Reasoning
+- Monologue: hiding the model reasoning to the user.
 
 ## Chaining Prompts
 
