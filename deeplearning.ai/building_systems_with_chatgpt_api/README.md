@@ -21,6 +21,11 @@
 - Monologue: hiding the model reasoning to the user.
 
 ## Chaining Prompts
+- Why do we do chaning prompts? Cooking meal in one go vs cooking in many stage! 
+  - Challenging to cook at the same time.
+  - Break down a complex task.
+- Chaining prompt is a powerful workflow where you have the states and take different points. 
+  - Ex: First classify what type of questions, give help accordingly.
 
 ## Check Outputs
 
