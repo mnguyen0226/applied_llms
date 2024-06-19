@@ -1,9 +1,12 @@
 # Applied Large Language Models - Use Case & Automation
 
 Building Systems with the ChatGPT API
-- Classification:
+- Classification
   - Use prompting to classify different customer's input.
   - Moderate user inputs with Moderation API and avoid prompt injection (using delimiter processing or additional prompting)!
+- Moderation API
+- Chain of reasoning
+  - The idea here is having a database of category list and detail information. From the user's query, can you get a detailed information.
 
 ChatGPT Prompt Engineering for Developers.
 - Text summarization.
