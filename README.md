@@ -7,6 +7,12 @@ Building Systems with the ChatGPT API
 - Moderation API
 - Chain of reasoning
   - The idea here is having a database of category list and detail information. From the user's query, can you get a detailed information.
+- Full System
+  - Evaluate the input 
+  - Process the input
+  - Evaluate the output
+- Evaluate how the model is working
+  - Evaluate LLM responses when there is a single "right answer".
 
 ChatGPT Prompt Engineering for Developers.
 - Text summarization.

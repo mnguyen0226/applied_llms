@@ -26,7 +26,24 @@
   - Break down a complex task.
 - Chaining prompt is a powerful workflow where you have the states and take different points. 
   - Ex: First classify what type of questions, give help accordingly.
+  - Better to keep the states and inject relevant info as needed.
+- Also, it allow us to use external tools: web search or API
 
 ## Check Outputs
+- Full System
+  - Evaluate the input 
+  - Process the input
+  - Evaluate the output
 
 ## Evaluation
+- Evaluate how the model is working
+- How?
+  - Tune prompts on handful of examples.
+  - Add additional tricky examples opportunistically.
+  - Develop metrics to measure performance on examples.
+  - Collect randomly sampled set of examples to tune to development set / hold-out cross validation set.
+  - Collect and use a hold-out test set
+
+### Evaluate LLM responses when there is a single "right answer".
+  - Prompt-based AI: Specify prompt > Call model
+  - No need for test set
