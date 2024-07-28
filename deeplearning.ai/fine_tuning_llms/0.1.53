@@ -1,0 +1,19 @@
+Collecting llama-cpp-python
+  Downloading llama_cpp_python-0.2.84.tar.gz (49.3 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Requirement already satisfied: numpy>=1.20.0 in /home/mnguyen0226/anaconda3/lib/python3.9/site-packages (from llama-cpp-python) (1.23.5)
+Requirement already satisfied: jinja2>=2.11.3 in /home/mnguyen0226/anaconda3/lib/python3.9/site-packages (from llama-cpp-python) (2.11.3)
+Requirement already satisfied: typing-extensions>=4.5.0 in /home/mnguyen0226/anaconda3/lib/python3.9/site-packages (from llama-cpp-python) (4.8.0)
+Collecting diskcache>=5.6.1
+  Downloading diskcache-5.6.3-py3-none-any.whl (45 kB)
+Requirement already satisfied: MarkupSafe>=0.23 in /home/mnguyen0226/anaconda3/lib/python3.9/site-packages (from jinja2>=2.11.3->llama-cpp-python) (1.1.1)
+Building wheels for collected packages: llama-cpp-python
+  Building wheel for llama-cpp-python (PEP 517): started
+  Building wheel for llama-cpp-python (PEP 517): finished with status 'canceled'
