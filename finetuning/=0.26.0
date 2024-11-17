@@ -1,0 +1,6 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting accelerate
+  Using cached accelerate-1.1.1-py3-none-any.whl (333 kB)
+Collecting torch>=1.10.0
+  Downloading torch-2.5.1-cp310-cp310-manylinux1_x86_64.whl (906.4 MB)
+     ━━━━━━━━                                 182.5/906.4 MB 2.1 MB/s eta 0:05:37
